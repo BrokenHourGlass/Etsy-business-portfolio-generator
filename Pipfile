@@ -7,6 +7,7 @@ name = "pypi"
 python-dotenv = "*"
 bs4 = "*"
 requests = "*"
+python-docx = "*"
 
 [dev-packages]
 
