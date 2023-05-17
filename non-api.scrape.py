@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import json
 
-base_url = "https://www.etsy.com/shop/Blackcatsandbroomsti?ref=items-pagination&page={}&sort_order=date_desc"
+base_url = ""
 
 # This will hold all the item data
 items = []
